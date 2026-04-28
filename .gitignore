@@ -8,13 +8,12 @@ runs/
 yolov8n/
 *.zip
 *.pt
-*.jpg
-*.png
-*.jpeg
 __pycache__/
 *.pyc
 .cache
 all_report_images/
 *.npy
+plots/yolo11n_viz/
+plots/detections/
 plots/yolo11n_viz/
 plots/detections/

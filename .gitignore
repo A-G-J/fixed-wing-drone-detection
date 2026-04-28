@@ -4,8 +4,14 @@ test/
 fixed_wing_dataset/
 Synthetic_Drone_Classification_Dataset/
 examples/
+runs/
+yolov8n/
 *.zip
 *.pt
+*.jpg
+*.png
+*.jpeg
 __pycache__/
 *.pyc
 .cache
+all_report_images/

@@ -1,7 +1,0 @@
-Custom CNN Evaluation Results
-========================================
-Precision : 0.0000
-Recall    : 0.0000
-F1 Score  : 0.0000
-Mean IoU  : 0.0220
-TP: 0 | FP: 200 | FN: 0

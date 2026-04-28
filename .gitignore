@@ -7,7 +7,6 @@ examples/
 runs/
 yolov8n/
 *.zip
-*.pt
 __pycache__/
 *.pyc
 .cache

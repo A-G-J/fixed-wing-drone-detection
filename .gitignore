@@ -4,7 +4,6 @@ test/
 fixed_wing_dataset/
 Synthetic_Drone_Classification_Dataset/
 examples/
-runs/
 yolov8n/
 *.zip
 __pycache__/

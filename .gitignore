@@ -15,3 +15,6 @@ __pycache__/
 *.pyc
 .cache
 all_report_images/
+*.npy
+plots/yolo11n_viz/
+plots/detections/

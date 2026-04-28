@@ -1,0 +1,11 @@
+train/
+val/
+test/
+fixed_wing_dataset/
+Synthetic_Drone_Classification_Dataset/
+examples/
+*.zip
+*.pt
+__pycache__/
+*.pyc
+.cache
